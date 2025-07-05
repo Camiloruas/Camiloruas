@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
 Sou um desenvolvedor Full Stack em constante aprendizado e evolução, sempre atento às tecnologias mais relevantes do mercado.  
-Minha paixão é transformar ideias em código, e tenho me dedicado a dominar as ferramentas que impulsionam o desenvolvimento web moderno.
+Minha paixão é transformar ideias em código, e tenho me dedicado a dominar as ferramentas que impulsionam o desenvolvimento web.
 
 Aqui, você vai encontrar os frutos dessa jornada:  
 Projetos práticos onde aplico cada novo conhecimento.  
