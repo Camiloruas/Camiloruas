@@ -1,4 +1,4 @@
-### Olá! Eu sou o Camilo Ruas 👋
+### Olá! Eu sou o Camilo Ruas ✌️
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
 Sou um desenvolvedor Full Stack em constante aprendizado e evolução, sempre atento às tecnologias mais relevantes do mercado.  
