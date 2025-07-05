@@ -1,21 +1,23 @@
 ### Olá! Eu sou o Camilo Ruas ✌️
 
-### Olá! Eu sou o Camilo Ruas ✌️
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" />
+</p>
 
-### Olá! Eu sou o Camilo Ruas ✌️
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" style="display:inline-block; margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" style="display:inline-block; margin: 10px;" />
-
-</div>
 
 
 
