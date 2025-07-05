@@ -22,7 +22,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" width="50" alt="Node.js" />
+  <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
   &nbsp;&nbsp;&nbsp;&nbsp;
