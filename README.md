@@ -1,32 +1,52 @@
-### Olá! Eu sou o Camilo Ruas ✌️
+### Olá! Eu sou o Camilo Ruas 👋
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" />
-</p>
+Seja bem-vindo(a) ao meu espaço no GitHub!  
+Sou um desenvolvedor Full Stack em constante aprendizado e evolução, sempre atento às tecnologias mais relevantes do mercado.  
+Minha paixão é transformar ideias em código, e tenho me dedicado a dominar as ferramentas que impulsionam o desenvolvimento web moderno.
+
+Aqui, você vai encontrar os frutos dessa jornada:  
+Projetos práticos onde aplico cada novo conhecimento.  
+Desde a superação de desafios complexos de deploy até a construção de interfaces interativas e responsivas – cada linha de código é um passo à frente na busca por soluções.
+
+Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou sempre aberto a aprender e colaborar!
+
+---
+
+### 🛠️ Tecnologias e Ferramentas que me acompanham:
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/nodejs.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" style="display:inline-block; margin: 50px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" style="display:inline-block; margin: 50px;" />
+
+</div>
+
+---
+
+### Estatísticas no GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Camiloruas&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Camilo" />
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Espaço entre os cards -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical&theme=dark" alt="Top linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 
 
 
+---
 
+### 📫 Vamos conectar!
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camiloruas&show_icons=true&theme=dark)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical)](https://github.com/Camiloruas/github-readme-stats)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Ruas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camilo-ruas-3a2a6425/)
