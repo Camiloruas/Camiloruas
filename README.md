@@ -26,7 +26,8 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
 </div>
-<div style="border-bottom: 1px solid #d0d7de; margin: 20px 0;"></div>
+
+---
 
 **Back-end**
 <div align="center">
@@ -34,7 +35,8 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
 </div>
-<div style="border-bottom: 1px solid #d0d7de; margin: 20px 0;"></div>
+
+---
 
 **Ferramentas**
 <div align="center">
