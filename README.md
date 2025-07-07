@@ -53,5 +53,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Ruas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camilo-ruas-3a2a6425/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579998448030)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloruas@gmail.com)
 
 </div>
