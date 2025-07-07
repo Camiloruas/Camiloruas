@@ -16,39 +16,39 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 **Front-end**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" /><br/>HTML
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" /><br/>CSS
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" /><br/>JavaScript
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typescript.webp" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typescript.webp" width="50" alt="TypeScript" /><br/>TypeScript
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" /><br/>React
 </div>
 
 ---
 
 **Back-end**
 <div align="center">
-  <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
+  <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" /><br/>Node.js
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" /><br/>PostgreSQL
 </div>
 
 ---
 
 **Ferramentas**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" /><br/>VSCode
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" /><br/>NPM
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" /><br/>Postman
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" /><br/>GitHub
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" /><br/>Git
 </div>
 
 ---
