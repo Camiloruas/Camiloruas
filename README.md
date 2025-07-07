@@ -47,8 +47,6 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
 </div>
 
-
-
 ---
 
 ### Estatísticas no GitHub
