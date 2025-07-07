@@ -14,7 +14,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 ### 🛠️ Tecnologias e Ferramentas que me acompanham:
 
-<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
   <h3 align="center"><strong>Front-end</strong></h3>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
@@ -29,7 +29,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   </p>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
   <h3 align="center"><strong>Back-end</strong></h3>
   <p align="center">
     <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
@@ -38,7 +38,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   </p>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px;">
   <h3 align="center"><strong>Ferramentas</strong></h3>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
