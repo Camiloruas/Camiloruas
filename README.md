@@ -14,44 +14,56 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 ### 🛠️ Tecnologias e Ferramentas que me acompanham:
 
-<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
-  <h3 align="center"><strong>Front-end</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typescript.webp" width="50" alt="TypeScript" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Front-end</strong>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typescript.webp" width="50" alt="TypeScript" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
-  <h3 align="center"><strong>Back-end</strong></h3>
-  <p align="center">
-    <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Back-end</strong>
+      <p>
+        <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div style="border: 1px solid #d0d7de; border-radius: 10px; padding: 15px;">
-  <h3 align="center"><strong>Ferramentas</strong></h3>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Ferramentas</strong>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" />
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -73,4 +85,5 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Ruas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camilo-ruas-3a2a6425/)
 
 </div>
+
 
