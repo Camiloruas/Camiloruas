@@ -14,7 +14,7 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 ### 🛠️ Tecnologias e Ferramentas que me acompanham:
 
-<table>
+<table width="100%">
   <tr>
     <td align="center">
       <strong>Front-end</strong>
@@ -32,8 +32,8 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
     </td>
   </tr>
 </table>
-
-<table>
+<br/><br/>
+<table width="100%">
   <tr>
     <td align="center">
       <strong>Back-end</strong>
@@ -45,8 +45,8 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
     </td>
   </tr>
 </table>
-
-<table>
+<br/><br/>
+<table width="100%">
   <tr>
     <td align="center">
       <strong>Ferramentas</strong>
