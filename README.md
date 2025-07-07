@@ -14,53 +14,54 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 ### 🛠️ Tecnologias e Ferramentas que me acompanham:
 
+**Front-end**
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/javascript.webp" width="50" alt="JavaScript" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
+</div>
+
+**Back-end**
+<div align="center">
   <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
+</div>
+
+**Ferramentas**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
-
 </div>
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Camiloruas/Camiloruas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Camiloruas/Camiloruas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Camiloruas/Camiloruas/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ---
 
 ### Estatísticas no GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Camiloruas&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Camilo" />
-    </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Espaço entre os cards -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical&theme=dark" alt="Top linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Camiloruas&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Camilo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical&theme=dark" alt="Top linguagens mais usadas" />
+</div>
 
 ---
 
 ### 📫 Vamos conectar!
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Ruas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camilo-ruas-3a2a6425/)
+
+</div>
