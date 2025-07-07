@@ -14,9 +14,9 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 
 ### 🛠️ Tecnologias e Ferramentas que me acompanham:
 
-<details>
-  <summary><strong>Front-end</strong></summary>
-  <div align="center">
+<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+  <h3 align="center"><strong>Front-end</strong></h3>
+  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/html-light.webp" width="50" alt="HTML" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/css-light.webp" width="50" alt="CSS" />
@@ -26,21 +26,21 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/typescript.webp" width="50" alt="TypeScript" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/reactjs.webp" width="50" alt="React" />
-  </div>
-</details>
+  </p>
+</div>
 
-<details>
-  <summary><strong>Back-end</strong></summary>
-  <div align="center">
+<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; margin-bottom: 15px;">
+  <h3 align="center"><strong>Back-end</strong></h3>
+  <p align="center">
     <img src="https://nodejs.org/static/logos/nodejsStackedDark.svg" width="80" alt="Node.js" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/postgres.webp" width="50" alt="PostgreSQL" />
-  </div>
-</details>
+  </p>
+</div>
 
-<details>
-  <summary><strong>Ferramentas</strong></summary>
-  <div align="center">
+<div style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+  <h3 align="center"><strong>Ferramentas</strong></h3>
+  <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/vscode.webp" width="50" alt="VSCode" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/npm.webp" width="50" alt="NPM" />
@@ -50,8 +50,8 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/github-light.webp" width="50" alt="GitHub" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/git.webp" width="50" alt="Git" />
-  </div>
-</details>
+  </p>
+</div>
 
 
 
@@ -73,3 +73,4 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo%20Ruas-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/camilo-ruas-3a2a6425/)
 
 </div>
+
