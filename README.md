@@ -30,11 +30,11 @@ Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou s
   <img src="https://camo.githubusercontent.com/dd772f54a27c781f194e07c4391d9ecf215dab9a4f7488eac9e336037381f37e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a532d3333333333333f7374796c653d666c6174266c6f676f3d6e6573746a73266c6f676f436f6c6f723d453533354142" width="80"/>
 
   <h3>Ferramentas</h3>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" width="71"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" width="67"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="89"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="63"/>
 </div>
 
 ---
