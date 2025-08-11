@@ -1,14 +1,11 @@
-### Olá! Eu sou o Camilo Ruas ✌️
+<div align="center">
+<h2> Olá! Eu sou o Camilo Ruas ✌️</h2>
+</div>
 
-Seja bem-vindo(a) ao meu espaço no GitHub!  
-Sou um desenvolvedor Full Stack em constante aprendizado e evolução, sempre atento às tecnologias mais relevantes do mercado.  
-Minha paixão é transformar ideias em código, e tenho me dedicado a dominar as ferramentas que impulsionam o desenvolvimento web.
-
-Aqui, você vai encontrar os frutos dessa jornada:  
-Projetos práticos onde aplico cada novo conhecimento.  
-Desde a superação de desafios complexos de deploy até a construção de interfaces interativas e responsivas – cada linha de código é um passo à frente na busca por soluções.
-
-Busco continuamente aprimorar minhas habilidades. Adoro um bom desafio e estou sempre aberto a aprender e colaborar!
+Bem-vindo(a) ao meu GitHub!
+Sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais.
+Aqui você encontrará projetos práticos que envolvem desde deploys complexos até interfaces modernas e responsivas.
+Sempre em evolução, busco novos desafios, aprendizado contínuo e oportunidades para colaborar.
 
 ---
 
