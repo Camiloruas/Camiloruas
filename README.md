@@ -4,7 +4,7 @@
 
 Bem-vindo(a) ao meu GitHub!
 Sou desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais.
-Aqui você encontrará projetos práticos que envolvem desde deploys complexos até interfaces modernas e responsivas.
+Aqui você encontrará projetos práticos que envolvem desde deploys até interfaces modernas e responsivas.
 Sempre em evolução, busco novos desafios, aprendizado contínuo e oportunidades para colaborar.
 
 ---
