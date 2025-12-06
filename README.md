@@ -57,7 +57,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 ### Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Camiloruas&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Camilo" />
+  <img src="https://github-readme-stats.vercel.app/api?camiloruas=anuraghazra)](https://github.com/EthanJamesLew/github-readme-stats-academic" alt="Estatísticas do GitHub de Camilo" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical&theme=dark" alt="Top linguagens mais usadas" />
 </div>
 
