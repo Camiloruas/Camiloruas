@@ -57,8 +57,13 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 ### Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?camiloruas=anuraghazra)](https://github.com/EthanJamesLew/github-readme-stats-academic" alt="Estatísticas do GitHub de Camilo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camiloruas&layout=donut-vertical&theme=dark" alt="Top linguagens mais usadas" />
+ // Source - https://stackoverflow.com/q
+// Posted by user17458330, modified by community. See post 'Timeline' for change history
+// Retrieved 2025-12-06, License - CC BY-SA 4.0
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?camiloruas=hussaino03&show_icons=true&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?camiloruas=hussaino03&theme=radical&layout=compact" />
+
 </div>
 
 ---
