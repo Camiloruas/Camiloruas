@@ -6,7 +6,7 @@ Sou desenvolvedor Full Stack em constante evolução, sempre transformando curio
 
 Aqui no meu GitHub você vai encontrar aplicações completas, APIs bem estruturadas, interfaces modernas e experimentos que refletem minha jornada no desenvolvimento web.
 
-Gosto de unir boas práticas, tecnologia atual e criatividade para construir soluções funcionais — e aprender algo novo em cada linha de código.
+Gosto de unir boas práticas, tecnologia atual e criatividade para construir soluções funcionais e aprender algo novo em cada linha de código.
 
 Sigo buscando desafios, colaboração e evolução contínua. Vamos construir algo incrível?
 
@@ -44,7 +44,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="63" style="border-radius: 20px;"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="90" style="border-radius: 20px;"/></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-5629c2?style=for-the-badge&logo=n8n&logoColor=white" width="65" style="border-radius: 20px;"/></a>
-  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://github.com/modelcontextprotocol.png" height="28" style="background-color: white; padding: 2px; border-radius: 5px;"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/MCP-212121?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAIAAABvFaqvAAACOklEQVR4nK3VvWvqYBQG8Nfkah1SRAlu1UWQFooRHASpi7S1NuCUah2cqq7i5KoujraDm3+BClI6VvoFilsXSQQLpVYoSIZM8TPnDoGL2LdJL+2Zn/w45wkkBgBAvzHErygIoT+6CUmSrq+v397efD7f0dGRwWDA50BzBEHY29szmUw7OzsIoUQiMZ1OsUktSBAEp9Pp8XiGw+FqtWq1WiRJVqvV/4MEQXA4HAzDiKJ4e3vLcRwAsCwbDoexeXzZg8Hg+PjYZrO12+3n5+fT01MAQAjJstzpdDiOq9Vqi8VCp6P1Xdrt9tbW1tnZmaIolUoFIeT3+0OhEEEQ8Xh8Pp9/eZqqeL1eVTGbzapydXWFECoUCoqiLJfLm5sbhFCj0cBDarv/etlQSqUSAKRSqWg0CgC7u7vZbBYD9ft9VZlMJp93UZVMJkMQRL1elyTJarWWy2UMdHh4uL+///HxwfM8RVEcx2GVZrO5WCwikQhN06+vrxiI5/nJZAIAFxcXLpdLluXLy0uswrIsRVEPDw/rtWDeWjAYjMVioihub28Xi0UASKfTJEmuK/f39xtPYaB8Pk/T9MvLy2g0Wi6X6XR6Y5fPCh4aj8dut9tutyeTSYZhTCaTroKHAOD9/T2Xyx0cHJyfn/d6vfl8rq18Ca3PbDbTVb4FZTIZq9X6+PioHTOA3qc2EAjMZrNut2s0GrVyuhs9PT1ZLJaTkxNJkn50GgDc3d0xDCMIwo9OU0dRFILQ+lN8F9Kdv30t5QMCM6rSAAAAAElFTkSuQmCC&logoColor=white" style="border-radius: 20px;"/></a>
 </div>
 
 <div align="center">
