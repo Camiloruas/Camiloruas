@@ -60,7 +60,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=camiloruas&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?camiloruas=user&theme=blue-green&langs_count=8&layout=compact" />
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=camiloruas&theme=radical" />
 </div>
 
 </div>
