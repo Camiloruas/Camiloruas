@@ -57,7 +57,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 ### Estatísticas no GitHub
 
 <div align="center">
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?camiloruas=user&show_icons=true&theme=blue-green" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?camiloruas=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?camiloruas=user&theme=blue-green&langs_count=8&layout=compact" />
