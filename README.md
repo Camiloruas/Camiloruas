@@ -60,7 +60,9 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=camiloruas&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
 &nbsp;&nbsp;&nbsp;
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloruas&layout=compact&theme=radical" />
-
+<br/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=camiloruas&theme=radical" alt="GitHub Streak" />
 </div>
 
 </div>
