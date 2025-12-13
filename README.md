@@ -44,7 +44,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="63" style="border-radius: 20px;"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="90" style="border-radius: 20px;"/></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-5629c2?style=for-the-badge&logo=n8n&logoColor=white" width="65" style="border-radius: 20px;"/></a>
-  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Model_Context_Protocol_logo.svg" height="28" style="background-color: white; padding: 2px; border-radius: 5px;"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://github.com/modelcontextprotocol.png" height="28" style="background-color: white; padding: 2px; border-radius: 5px;"/></a>
 </div>
 
 <div align="center">
