@@ -20,8 +20,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://camo.githubusercontent.com/7d87678018743408af4b8d38ace19b8006c324e67fd2d4800f2baec7ada3c418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236" width="42" style="border-radius: 10px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://camo.githubusercontent.com/849a6060207020da1289e5e796ab5313646ae5cac8a6bee756d8d55f59efa19f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074" width="105" style="border-radius: 10px;"/></a>
   <img src="https://camo.githubusercontent.com/578c92902e9868515a7b2716611a0f6a3ae8421e0b19e4b9458c8f007198aa64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d324437394337" width="107" style="border-radius: 10px;"/>
-  <!-- MCP Badge (using generic icon since official slug might not be available yet) -->
-  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-333333?style=flat&logo=box&logoColor=white" height="28" style="border-radius: 10px;"/></a>
+
 </div>
 
 <div align="center">
@@ -45,6 +44,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="63" style="border-radius: 20px;"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="90" style="border-radius: 20px;"/></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-5629c2?style=for-the-badge&logo=n8n&logoColor=white" width="65" style="border-radius: 20px;"/></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Model_Context_Protocol_logo.svg" height="28" style="background-color: white; padding: 2px; border-radius: 5px;"/></a>
 </div>
 
 <div align="center">
