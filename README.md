@@ -59,9 +59,9 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 ### Estatísticas no GitHub
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=camiloruas&show_icons=true&hide_title=true&count_private=true&theme=radical" />
+<img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=camiloruas&show_icons=true&hide_title=true&count_private=true&theme=radical" />
 &nbsp;&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloruas&layout=compact&theme=radical" />
+<img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=camiloruas&layout=compact&theme=radical" />
 </div>
 
 </div>
