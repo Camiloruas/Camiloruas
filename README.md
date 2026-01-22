@@ -2,7 +2,7 @@
 <h2> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h2>
 </div>
 
-I’m a Full Stack Developer focused on building complet
+I’m a Full Stack Developer focused on building complet.
 
 On my GitHub, you’ll find hands-on projects that reflect my work with full-stack development, including web applications, API integrations, automation workflows, and practical experiments designed to solve real-world problems.
 
