@@ -2,9 +2,9 @@
 <h1> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h1>
 </div>
 
-<div style="font-size: 1.5rem;">
+<h3>
 
-I’m a Full Stack Developer focused on building complet.
+I’m a Full Stack Developer in constant evolution, always turning curiosity into code and ideas into real-world projects.
 
 On my GitHub, you’ll find hands-on projects that reflect my work with full-stack development, including web applications, API integrations, automation workflows, and practical experiments designed to solve real-world problems.
 
@@ -13,7 +13,7 @@ Before fully transitioning into software development, I built a solid foundation
 I enjoy learning by building, improving code quality, and collaborating on meaningful projects.
 Always open to new ideas.
 
-</div>
+</h3>
 
 
 ---
