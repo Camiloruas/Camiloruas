@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h2>
+<h1> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h1>
 </div>
 
 I’m a Full Stack Developer focused on building complet.
