@@ -1,14 +1,8 @@
 <div align="center">
-<h2> Olá! Eu sou <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h2>
+<h2> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h2>
 </div>
 
-Sou desenvolvedor Full Stack em constante evolução, sempre transformando curiosidade em código e ideias em projetos reais.
-
-Aqui no meu GitHub você vai encontrar aplicações completas, APIs bem estruturadas, interfaces modernas e experimentos que refletem minha jornada no desenvolvimento web.
-
-Gosto de unir boas práticas, tecnologia atual e criatividade para construir soluções funcionais e aprender algo novo em cada linha de código.
-
-Sigo buscando desafios, colaboração e evolução contínua. Vamos construir algo incrível?
+Hello! I'm Camilo Ruas, a constantly evolving Full Stack developer. Here you will find complete applications, APIs, modern interfaces, and projects that reflect my journey in web development. Always learning and building.
 
 ---
 
@@ -56,7 +50,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 
 ---
 
-### Estatísticas no GitHub
+### GitHub Statistics
 
 <div align="center">
 <img height="150" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=camiloruas&show_icons=true&hide_title=true&count_private=true&theme=radical" />
@@ -68,7 +62,7 @@ Sigo buscando desafios, colaboração e evolução contínua. Vamos construir al
 
 ---
 
-### 📫 Vamos conectar!
+### 📫 Let's connect!
 
 <div align="center">
 
