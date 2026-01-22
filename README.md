@@ -2,7 +2,7 @@
 <h1> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h1>
 </div>
 
-<div style="font-size: 1.2rem;">
+<div style="font-size: 1.5rem;">
 
 I’m a Full Stack Developer focused on building complet.
 
