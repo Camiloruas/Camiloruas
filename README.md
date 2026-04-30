@@ -1,38 +1,37 @@
 <div align="center">
-<h1> Hello! I am <Strong><span style="font-weight: bold; font-size: 2.2rem;color: #007bff">Camilo Ruas</Strong></span> </h1>
+  <h1>Hello, I'm <span style="color: #007bff;">Camilo Ruas</span></h1>
+  <p>Full Stack Developer focused on web applications, API integrations, and automation workflows.</p>
 </div>
 
-Full Stack Developer focused on building web applications, API integrations and automation solutions.
+I build solutions with JavaScript, React, Node.js, and modern web technologies, with a strong focus on connecting systems, automating processes, and improving operational efficiency.
 
-I work mainly with JavaScript, React, Node.js and modern web technologies, developing projects that connect systems, automate processes and solve real-world problems.
+## Core Focus
 
-## What I do
+- Full Stack development for web applications and business solutions
+- Frontend interfaces with React, Next.js, HTML, CSS, and Tailwind
+- Backend integrations with Node.js, REST APIs, and webhooks
+- Automation workflows with n8n
+- CMS and CRM integrations with WordPress, HubSpot, RD Station, and Kommo
 
-- Build web applications and responsive interfaces
-- Develop API integrations and data workflows
-- Create automation solutions using n8n
-- Work with CMS and CRM integrations such as WordPress, HubSpot and RD Station
-- Develop landing pages focused on performance and usability
+## Professional Background
 
-## Background
-
-I have a strong background in enterprise IT infrastructure, with over 10 years of experience working in mission-critical on-premises environments.  
-Today, I apply this experience to software development with a focus on reliability, problem-solving and system thinking.
+My background in enterprise IT infrastructure is a practical advantage in development projects. After more than 10 years working in mission-critical on-premises environments, I bring a strong reliability mindset, solid troubleshooting skills, and a systems-oriented view to software development.
 
 ## Tech Stack
 
 **Languages:** JavaScript, TypeScript  
 **Frontend:** React, Next.js, HTML, CSS, Tailwind  
-**Backend & Integrations:** Node.js, REST APIs, Webhooks  
+**Backend:** Node.js  
+**Integrations:** REST APIs, Webhooks  
 **Automation:** n8n  
 **CMS & CRM:** WordPress, HubSpot, RD Station, Kommo  
-**Tools:** Git, Vercel, CI/CD
+**Tools:** Git, GitHub, Postman, Vercel
 
-## Currently
+## Current Work
 
-- Working on freelance and personal projects
-- Exploring automation, integrations and AI-driven solutions
-- Contributing to open source
+- Building freelance and personal projects focused on development, integrations, and automation
+- Creating solutions that connect CRM, CMS, and internal workflows
+- Delivering practical solutions for business automation and system integration
 
 ---
 
@@ -54,7 +53,6 @@ Today, I apply this experience to software development with a focus on reliabili
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css" width="91" style="border-radius: 10px;"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" width="83" style="border-radius: 10px;"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" width="85" style="border-radius: 10px;"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" width="110" style="border-radius: 10px;"/></a>
 </div>
 
 <div align="center">
@@ -64,8 +62,8 @@ Today, I apply this experience to software development with a focus on reliabili
   <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="100" style="border-radius: 20px;"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="89" style="border-radius: 20px;"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="63" style="border-radius: 20px;"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="90" style="border-radius: 20px;"/></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-5629c2?style=for-the-badge&logo=n8n&logoColor=white" width="65" style="border-radius: 20px;"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="83" style="border-radius: 20px;"/></a>
 </div>
 
 <div align="center">
@@ -87,7 +85,7 @@ Today, I apply this experience to software development with a focus on reliabili
 
 ---
 
-### 📫 Let's connect!
+### Let's connect
 
 <div align="center">
 

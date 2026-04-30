@@ -1,11 +1,13 @@
 class WebDeveloper {
   constructor() {
-    this.user = "Camiloruas";
+    this.name = "Camilo Ruas";
     this.email = "miloruas@gmail.com";
-    this.skills = ["JS", "Frontend", "Backend"];
+    this.role = "Full Stack Developer";
+    this.stack = ["JavaScript", "React", "Node.js", "REST APIs", "n8n"];
+    this.specialties = ["Web Applications", "Integrations", "Automation", "CRM", "WordPress"];
   }
   code() {
-    return "Building the future...";
+    return "Building web applications, integrations, and automation workflows.";
   }
 }
 const me = new WebDeveloper();
