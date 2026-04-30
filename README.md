@@ -1,21 +1,24 @@
 <div align="center">
   <h1>Hello, I'm <span style="color: #007bff;">Camilo Ruas</span></h1>
-  <p>Full Stack Developer focused on web applications, API integrations, and automation workflows.</p>
+  <p>Full Stack Developer | JavaScript, React, Node.js | APIs, Automation, CRM, WordPress</p>
 </div>
 
-I build solutions with JavaScript, React, Node.js, and modern web technologies, with a strong focus on connecting systems, automating processes, and improving operational efficiency.
+I develop web applications, API integrations, and automation workflows for business needs. My work is centered on JavaScript, React, Node.js, and system integrations that improve operations, connect tools, and turn manual processes into scalable flows.
 
-## Core Focus
+## What I Deliver
 
-- Full Stack development for web applications and business solutions
+- Full Stack development for web applications, dashboards, landing pages, and internal tools
 - Frontend interfaces with React, Next.js, HTML, CSS, and Tailwind
-- Backend integrations with Node.js, REST APIs, and webhooks
-- Automation workflows with n8n
+- Backend integrations with Node.js, REST APIs, webhooks, and third-party services
+- Automation workflows with n8n for operational efficiency and lead handling
 - CMS and CRM integrations with WordPress, HubSpot, RD Station, and Kommo
 
-## Professional Background
+## Experience in Practice
 
-My background in enterprise IT infrastructure is a practical advantage in development projects. After more than 10 years working in mission-critical on-premises environments, I bring a strong reliability mindset, solid troubleshooting skills, and a systems-oriented view to software development.
+- Freelance projects focused on development, integrations, and automation
+- Personal projects used to validate ideas, test architectures, and sharpen delivery
+- Open source contributions and continuous hands-on work with modern web tools
+- Solutions designed to connect CRM, CMS, forms, APIs, and internal workflows
 
 ## Tech Stack
 
@@ -27,11 +30,9 @@ My background in enterprise IT infrastructure is a practical advantage in develo
 **CMS & CRM:** WordPress, HubSpot, RD Station, Kommo  
 **Tools:** Git, GitHub, Postman, Vercel
 
-## Current Work
+## Professional Background
 
-- Building freelance and personal projects focused on development, integrations, and automation
-- Creating solutions that connect CRM, CMS, and internal workflows
-- Delivering practical solutions for business automation and system integration
+My background in enterprise IT infrastructure adds depth to my development work. After more than 10 years in mission-critical on-premises environments, I bring reliability, troubleshooting discipline, and systems thinking to software projects that require stability and practical problem-solving.
 
 ---
 
