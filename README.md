@@ -20,15 +20,9 @@ I develop web applications, API integrations, and automation workflows for busin
 - Open source contributions and continuous hands-on work with modern web tools
 - Solutions designed to connect CRM, CMS, forms, APIs, and internal workflows
 
-## Tech Stack
+## Core Focus
 
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React, Next.js, HTML, CSS, Tailwind  
-**Backend:** Node.js  
-**Integrations:** REST APIs, Webhooks  
-**Automation:** n8n  
-**CMS & CRM:** WordPress, HubSpot, RD Station, Kommo  
-**Tools:** Git, GitHub, Postman, Vercel
+JavaScript and TypeScript for full stack web development, API integrations, automation, and CRM/CMS-connected solutions.
 
 ## Professional Background
 
@@ -37,19 +31,13 @@ My background in enterprise IT infrastructure adds depth to my development work.
 ---
 
 <div align="center">
-<h3>Languages</h3>
+<h3>Core Stack</h3>
 </div>
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" width="76" style="border-radius: 10px;"/></a>
   <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" width="42" style="border-radius: 10px;"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" width="105" style="border-radius: 10px;"/></a>
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7" width="107" style="border-radius: 10px;"/>
-</div>
-
-<div align="center">
-<h3>Frameworks & Libraries</h3>
-</div>
-<div align="center">
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" width="73" style="border-radius: 10px;"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css" width="91" style="border-radius: 10px;"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" width="83" style="border-radius: 10px;"/></a>
